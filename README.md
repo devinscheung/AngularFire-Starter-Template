@@ -21,7 +21,7 @@ A ready-to-go template to kickstart your Angular and Firebase applications. This
 
 ### Prerequisites
 - Make sure you have [Node.js](https://nodejs.org/en/) and [Angular CLI](https://angular.io/cli) installed.
-- Create a [Firebase project](console.firebase.google.com).
+- Create a [Firebase project](https://console.firebase.google.com).
 
 ### Getting Started
 
