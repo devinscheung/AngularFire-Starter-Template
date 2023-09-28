@@ -1,11 +1,11 @@
-# AngularFire CRUD Template
-A ready-to-go template to kickstart your Angular and Firebase applications. This repo provides a solid foundation with a CRUD structure using AngularFire, enabling you to quickly move forward with your projects.
+# AngularFire Template
+A ready-to-go CRUD template to kickstart your Angular and Firebase applications. This repo provides a solid foundation with a CRUD structure using AngularFire, enabling you to quickly move forward with your projects.
 
 :star2: If you find this project helpful or useful, a click on **star** button would be much appreciated to show your support! :)
 
 ### Features:
 - **Angular 16**
-- Pre-Built CRUD service template.
+- Pre-Built CRUD function template.
 - Easy setup and customization.
 - Error handling practices.
   
@@ -28,8 +28,8 @@ A ready-to-go template to kickstart your Angular and Firebase applications. This
 1. Clone the repository to your local:
    
 ```
-git clone https://github.com/devin-cheung/AngularFire-CRUD-Template.git
-cd AngularFire-CRUD-Template
+git clone https://github.com/cheungdevin/AngularFire-Template.git
+cd AngularFire-Template
 npm install
 ```
 
